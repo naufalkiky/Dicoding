@@ -12,22 +12,23 @@ Proyek ini bertujuan untuk menganalisis data pada Bike-Sharing-Dataset.
 ## Setup Environment
 1. Clone repository ini ke komputer lokal Anda menggunakan perintah berikut:
 
-*** shell
+```shell
 git clone https://github.com/naufalkiky/Dicoding.git
-***
+```
+
 2. install library yang dibutuhkan dengan perintah berikut:
-*** shell
+```shell
 pip install numpy pandas scipy matplotlib seaborn jupyter streamlit babel
-***
+```
 
 ## Penggunaan
 
 1. Masuk ke direktori proyek (Local):
 
-   ***shell
+   ```shell
    cd Dicoding/dashboard/
    streamlit run main.py
-   ***
+   ```
 
    Atau bisa dengan kunjungi website ini :
 
