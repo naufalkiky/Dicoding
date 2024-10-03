@@ -26,8 +26,8 @@ pip install numpy pandas scipy matplotlib seaborn jupyter streamlit babel
 1. Masuk ke direktori proyek (Local):
 
    ```shell
-   cd Dicoding/dashboard/
-   streamlit run main.py
+   cd submision_dicoding/dashboard/
+   streamlit run dashboard.py
    ```
 
    Atau bisa dengan kunjungi website ini : ***https://dicoding-gk3pgf8dewgz7cu2kj6jwv.streamlit.app/***
