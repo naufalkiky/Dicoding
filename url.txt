@@ -1,2 +1,2 @@
-## Streamlit URL
-***https://dicoding-gk3pgf8dewgz7cu2kj6jwv.streamlit.app/***
+Streamlit URL
+https://dicoding-gk3pgf8dewgz7cu2kj6jwv.streamlit.app/
