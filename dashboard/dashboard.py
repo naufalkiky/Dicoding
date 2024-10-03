@@ -33,7 +33,7 @@ all_df["dteday_x"] = pd.to_datetime(all_df["dteday_x"])
 # Sidebar for date range selection and logo
 with st.sidebar:
     st.title("Rizky Achmad Naufal")
-    st.image("./dashboard/streamlit-seeklogo.svg")
+    st.image("https://raw.githubusercontent.com/naufalkiky/submision_dicoding/refs/heads/main/dashboard/streamlit-seeklogo.svg")
 
     min_date = all_df["dteday_x"].min()
     max_date = all_df["dteday_x"].max()
