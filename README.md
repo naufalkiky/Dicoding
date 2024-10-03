@@ -10,7 +10,25 @@ Proyek ini bertujuan untuk menganalisis data pada Bike-Sharing-Dataset.
 - **Proyek_Analisis_Data_E_Commerce.ipynb**: File ini yang digunakan untuk melakukan analisis data.
 
 ## Setup Environment
-Clone repository ini ke komputer lokal Anda menggunakan perintah berikut:
+1. Clone repository ini ke komputer lokal Anda menggunakan perintah berikut:
+
+*** shell
+git clone https://github.com/naufalkiky/Dicoding.git
 ***
+2. install library yang dibutuhkan dengan perintah berikut:
+*** shell
+pip install numpy pandas scipy matplotlib seaborn jupyter streamlit babel
+***
+
+## Penggunaan
+
+1. Masuk ke direktori proyek (Local):
+
+   ***shell
+   cd Dicoding/dashboard/
+   streamlit run main.py
+   ***
+
+   Atau bisa dengan kunjungi website ini :
 
 
