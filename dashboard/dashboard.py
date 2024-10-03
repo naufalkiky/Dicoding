@@ -27,7 +27,7 @@ def seasonal_rentals_by_user_type(df):
     
 
 # Load dataset and convert date column
-all_df = pd.read_csv("all_data.csv")
+all_df = pd.read_csv("./dashboard/all_data.csv")
 all_df["dteday_x"] = pd.to_datetime(all_df["dteday_x"])
 
 # Sidebar for date range selection and logo
