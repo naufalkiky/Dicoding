@@ -13,7 +13,7 @@ Proyek ini bertujuan untuk menganalisis data pada Bike-Sharing-Dataset.
 1. Clone repository ini ke komputer lokal Anda menggunakan perintah berikut:
 
 ```shell
-git clone https://github.com/naufalkiky/Dicoding.git
+git clone https://github.com/naufalkiky/dicoding.git
 ```
 
 2. install library yang dibutuhkan dengan perintah berikut:
