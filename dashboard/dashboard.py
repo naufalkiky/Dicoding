@@ -59,6 +59,7 @@ sns.lineplot(x='dteday_x', y='cnt_x', data=rentals_per_day, ax=ax)
 plt.title("Total Rentals Over Time", fontsize=15)
 plt.xlabel("Date")
 plt.ylabel("Number of Rentals")
+plt.xticks(rotation=45)
 st.pyplot(fig)
 
 # penyewaan sepeda di Workdays vs Holidays (Box Plot)
