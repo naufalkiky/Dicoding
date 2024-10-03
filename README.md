@@ -30,6 +30,6 @@ pip install numpy pandas scipy matplotlib seaborn jupyter streamlit babel
    streamlit run main.py
    ```
 
-   Atau bisa dengan kunjungi website ini :
+   Atau bisa dengan kunjungi website ini : ***https://dicoding-gk3pgf8dewgz7cu2kj6jwv.streamlit.app/***
 
 
